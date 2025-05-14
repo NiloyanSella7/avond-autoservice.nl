@@ -37,11 +37,4 @@ Zorg dat je de volgende software hebt geïnstalleerd:
 - Node.js en npm
 - Git
 
-### 📝 Stappen
-
-1. **Kloon de repository:**
-
-```bash
-git clone https://github.com/NiloyanSella7/avond-autoservice.nl.git
-cd avond-autoservice.nl
 
