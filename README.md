@@ -7,10 +7,7 @@ Een moderne Laravel-webapplicatie voor het beheren van autogerelateerde diensten
 - [Over het project](#over-het-project)
 - [Tech Stack](#tech-stack)
 - [Installatie](#installatie)
-- [Gebruik](#gebruik)
-- [Structuur](#structuur)
-- [Functionaliteiten](#functionaliteiten)
-- [Licentie](#licentie)
+
 
 ## 🛠️ Over het project
 
